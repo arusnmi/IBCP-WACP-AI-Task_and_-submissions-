@@ -1,6 +1,6 @@
 #Watson x scedule displayer bot 
 
-This bot is trained to display any schedule that is given to it while knowing the current time and day. Note that this version is displaying my school schedule, but with some effort, you can make it display your own schedule.
+THis bot's creation was to fulfil the goal of displaying the DP! scedule accruactly with acording to tome and day to sucessfuly help DOP students not get lost and th not find their class. 
 
 
 
