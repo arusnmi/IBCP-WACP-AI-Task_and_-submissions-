@@ -1,35 +1,31 @@
 #Watson x scedule displayer bot 
 
-This bot is trained to display any scedule that is given to it, while knowing the time and day. note the this version is displaying my school scedule but with some effort, you can make it display your scedule. 
+This bot is trained to display any schedule that is given to it while knowing the current time and day. Note that this version is displaying my school schedule, but with some effort, you can make it display your own schedule.
 
 
 
 #Process of making the bot:
 
-1. I first made the action by pressing new action in the action tab.
-2. I then added a step to verfiy the user's classes.
-3. Then i counted the amount of periods that i had in a day and added each period as a step.
-4.  then i put each period into the robot
-5. then i put the spefic day and time for each period
-6. ironed out some  bugs after doing that
-7. and finaly implemented user testing.
+1. First, I created the action by pressing "New Action" in the Action tab.
+2. Then, I added a step to verify the user's classes.
+3. Next, I counted the number of periods in a day and added each period as a step.
+4. After that, I input each period into the bot.
+5. I then specified the day and time for each period.
+6. I ironed out some bugs after doing that.
+7. Finally, I implemented user testing.
 
 
 #learnings:
 
 
-some of the learnings that i found through the process of making this bot are intresting to say the least, and they are:
+Some of the learnings I discovered during the process of making this bot are interesting, to say the least, and they include:
 
-*you cannot import datasets or the bot to train on, you will have to manuly have to hard code them into the actions.
+* You cannot import datasets for the bot to train on; you will have to manually hard code them into the actions.
+* Always pay attention to the order of your actions, as it will determine the flow of the bot.
+* For custom messages, either go to the Preview tab and select the second option, or go to the third tab to disable the home screen. Then, go to Action, set   it by Assistant, and go to Greet Customer. Finally, change the description of that action to your welcome message.
+* It’s best to have only one action in your bot at most.
 
-*always look at the oeder of your actions, as it will detrmin the flow of the bot.
-
-*for coustom messages, either go to the preview tab and select the seconnd option or the third tab to disable the hme scereen, and then got to action and set by assistant and then got to greet coustoumer and the the discription of that action to your welcom message.
-
-*at most only have one action in your bot. 
-
-
-
+I struggled to get the bot to even show the welcome message, as it was my very first time using this software. Due to that, it took me a considerable amount of time to manage the bot, but I eventually finished it.
 
 # extra links 
 
