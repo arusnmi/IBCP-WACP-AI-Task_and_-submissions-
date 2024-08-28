@@ -6,45 +6,7 @@ THis bot's creation was to fulfil the goal of displaying the DP! scedule accruac
 
 #Process of making the bot:
 
-Created a New Action:
 
-Initiated the action by selecting "New Action" in the Action tab.
-Added a Verification Step:
-
-Included a step to verify the user's classes, ensuring accuracy and relevance.
-Counted Periods:
-
-Determined the number of periods in a day and set up a step for each one.
-Input Period Data:
-
-Entered details for each period into the bot to structure the workflow.
-Specified Day and Time:
-
-Assigned specific days and times to each period to synchronize with the user's schedule.
-Debugging:
-
-Identified and fixed bugs to ensure smooth operation.
-User Testing:
-
-Conducted testing with users to validate the action's effectiveness and functionality.
-This summary captures the key steps in your process. If you need assistance with any part of it or have questions, let me know!
-
-
-
-
-
-You said:
-
-First, I created the action by pressing "New Action" in the Action tab.
-Then, I added a step to verify the user's classes.
-Next, I counted the number of periods in a day and added each period as a step.
-After that, I input each period into the bot.
-I then specified the day and time for each period.
-I ironed out some bugs after doing that.
-Finally, I implemented user testing. can you elobrate on these points
-ChatGPT said:
-ChatGPT
-Certainly! Here's a more detailed explanation of each step in your process:
 
 1. Created the Action by Pressing "New Action" in the Action Tab
 
