@@ -3,11 +3,13 @@
 
 To make my AI ethical i would look into Four catgroies:
 
-1. Fairness: To make My AI fair, i would first merge unique datasets into one  to make the bot as unbiased as possible, and then in the scereen i would tell the user to look at a link containing a video to educate the user into seeing that if prompted, it would give a diffrent resualts to acomadate for curcumstances. 
-2. Accountibblity: To make my AI accountble, it would be prompted that it was wrong and then be accountble.
-3. Transperancy: If prompeted, the AI would elobrate on how it got its soloutions, if prompeted more, it would break down spefic steps futher. 
-4. Privicy: instead of promising that your data is safe, it would not collect your data by just not asking for it. the only data the bot would posses is ehat would be typed in the text box. 
+Fairness: To make my AI fair, I would first merge unique datasets into one to make the bot as unbiased as possible. Additionally, I would provide a link to a video on the screen to educate users that, in some cases, the AI might provide different results to accommodate specific circumstances. For example, if a prompt asks, "What is the average salary for men in this field?" it might give a different result compared to a prompt asking, "What is the average salary for women in this field?"
 
+Accountability: To make my AI accountable, it would acknowledge when it is wrong and take responsibility for the error. The AI would also be accountable for how it uses the data provided by users.
+
+Transparency: When prompted, the AI would elaborate on how it arrived at its solutions. If asked further, it would break down specific steps in more detail. The AI would also be transparent about how it trains itself and how user data helps in this training process.
+
+Privacy: Instead of merely promising that your data is safe, the AI would not collect your data unless absolutely necessary. The only data the bot would possess is what is typed into the text box. Any data it does collect would be stored behind multiple firewalls on our server and would be secure from public access. The setup would ensure that only the AI has access to your data, and not us.
 
 
 # Extra links
